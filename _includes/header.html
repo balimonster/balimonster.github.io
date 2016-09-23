@@ -10,6 +10,7 @@
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {{page.content[1 .. 40]}}
           {% endif %}
         {% endfor %}
       </div>
