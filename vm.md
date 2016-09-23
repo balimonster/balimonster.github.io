@@ -12,3 +12,10 @@ permalink: /vm/
 
  Teilnehmer | Punkte | dwz
  ah | 2 | 1699
+
+ Teilnehmer | Punkte | dwz
+ ah | 2 | 1699
+ x | 2.5 | 2055
+ ah | 2 | 1699
+ yxsys | 0.5 | 1055
+
