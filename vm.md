@@ -9,6 +9,6 @@ permalink: /vm/
 * 2dsa
 
 ## dfsdfs
-|Teilnehmer | Punkte | dwz|
-| ----- | ---- | ---- |
-|ah | 2 | 1699 |
+
+ Teilnehmer | Punkte | dwz
+ ah | 2 | 1699
