@@ -2,7 +2,7 @@
 layout: page
 title: Spielort
 permalink: /spielort/
-rank: 3
+rank: 98
 ---
 ![unser spielort](/public/img/spielort_header.jpg)
 
