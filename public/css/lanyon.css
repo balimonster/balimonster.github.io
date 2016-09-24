@@ -341,6 +341,10 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+.post-headline {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+}
 /* Meta data line below post title */
 .post-date {
   display: block;
