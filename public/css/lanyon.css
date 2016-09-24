@@ -107,6 +107,9 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title a {
   color: #505050;
 }
+.article_board{
+  width: 400px;
+}
 .play {
   padding: 1rem;
   margin-bottom: 2rem;
@@ -127,6 +130,9 @@ h1, h2, h3, h4, h5, h6 {
       padding: 0.1rem 0.1rem;
       border: 1px solid #e5e5e5;
       font-size: small;
+  }
+  .article_board{
+    width: 300px;
   }
 }
 

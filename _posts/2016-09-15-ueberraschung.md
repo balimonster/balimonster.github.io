@@ -11,7 +11,7 @@ title: Dicke Überraschung !
 
 ### Bob berichtet:
 
-<div id="toepfer_bartels" style="width: 400px"></div>
+<div id="toepfer_bartels" class="article_board"></div>
 <script>
 var vm2016 = 'r2q1rk1/3nppbp/p2pP1pn/1p4N1/3pNP2/4B3/PPP3PP/R2Q1RK1 b - - 0 13';
 var board = ChessBoard('toepfer_bartels', vm2016);
