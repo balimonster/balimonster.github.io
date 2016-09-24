@@ -1,6 +1,5 @@
 # Site settings
-title: Arctic Fox
-email:
+title: Schachfreunde Wedel
 description: > # this means to ignore newlines until "baseurl:"
   Jekyll Theme Demo
 url: "http://balimonster.github.io" # the base hostname & protocol for your site
