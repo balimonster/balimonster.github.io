@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   border-bottom: 1px solid #eee;
 }
 .masthead-title {
@@ -107,19 +107,21 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title a {
   color: #505050;
 }
-.masthead-title small {
-  font-size: 75%;
+.play {
+  padding: 1rem;
+  margin-bottom: 2rem;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #707070;
+  background: #dfdfdf;
   letter-spacing: 0;
+}
+.play small {
+  font-size: 85%;
 }
 
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
-  }
-  .masthead-title small {
-    display: none;
   }
 }
 

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Vereinsmeisterschaften
+title: Vereinsmeisterschaft 2016
 permalink: /vm/
+rank: 2
 ---
 
 ## Gruppe 1

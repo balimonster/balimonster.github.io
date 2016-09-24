@@ -1,10 +1,11 @@
 # Site settings
 title: Schachfreunde Wedel
 description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
+  Schach in Wedel
 url: "http://balimonster.github.io" # the base hostname & protocol for your site
 twitter_username: username
 github_username: balimonster
+meeting_schedule: Dienstags 19:00 Stadtteilzentrum Mittendrin
 
 # Build spwd
 # ettings
