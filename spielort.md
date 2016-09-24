@@ -12,7 +12,6 @@ Stadtteilzentrum "Mittendrin",
 Friedrich-Eggers-Str. 77 - 79,
 22880 Wedel
 ```
-<div id="basicMap"></div>
 
 ### Hinweis für unsere Besucher
 Mit dem ÖPNV erreichen sie uns mit der Buslinie 189. Die Autofahrer sollten wegen
