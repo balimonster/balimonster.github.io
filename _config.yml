@@ -6,7 +6,7 @@ url: "http://balimonster.github.io" # the base hostname & protocol for your site
 twitter_username: username
 github_username: balimonster
 meeting_schedule: Dienstags 19:00 Stadtteilzentrum Mittendrin
-
+paginate: 20
 # Build spwd
 # ettings
 markdown: kramdown

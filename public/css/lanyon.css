@@ -179,6 +179,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   color: #fff;
 }
+.sidebar-logo {
+  width:  50px;
+  margin: 0 0 0rem;
+
+}
 .sidebar-item {
   padding: 1rem;
 }
