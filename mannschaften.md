@@ -14,6 +14,9 @@ Wir haben aktuell eine Mannschaft in der Bezirksliga und in der Kreisliga
 
 
 ## 2016
+Es gab zwei Mannschaften in der Bezirksliga. Der 1. Mannschaft verlor das "Endspiel um den Aufstieg" gegen Blankenese in der letzten Runde. Die 2. Mannschaft ist nach großem Kampf in der Kreisliga abgestiegen.
 
-Ergebnisse:
+### Die Detailergebisse der Mannschaften
+
+* [2016](/hhmm2016/)
 
