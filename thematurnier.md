@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thematurnier
+rank: 20
 ---
 
 Am Ende des Jahres haben wir ein Thema!! Sobald  die Entscheidung feststeht
