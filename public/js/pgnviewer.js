@@ -191,13 +191,13 @@ function goToMove(ply) {
     game.move(gameHistory[i].san);
   }
   currentPly = i - 1;
-  board.position(game.fen());
+  board.position(game.fen(),false);
 }
 
 var onChange = function onChange() { //fires when the board position changes
   //highlight the current move
-  $("[class^='gameMove']").removeClass('highlight');
-  $('.gameMove' + currentPly).addClass('highlight');
+  // $("[class^='gameMove']").removeClass('highlight');
+  // $('.gameMove' + currentPly).addClass('highlight');
 }
 
 function loadGame(i) {
@@ -231,10 +231,10 @@ for (var i = 0; i < pgnData.length; i++) {
 
 //set up the board
 var cfg = {
-  pieceTheme: '/chessboardjs/img/chesspieces/wikipedia/{piece}.png',
+  pieceTheme: '/public/img/chesspieces/wikipedia/{piece}.png',
   position: 'start',
-  showNotation: false,
-  onChange: onChange
+  showNotation: true,
+  moveSpeed: 'slow'
 };
 board = new ChessBoard('board', cfg);
 $(window).resize(board.resize);
