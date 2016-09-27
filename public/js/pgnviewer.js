@@ -233,8 +233,7 @@ for (var i = 0; i < pgnData.length; i++) {
 var cfg = {
   pieceTheme: '/public/img/chesspieces/wikipedia/{piece}.png',
   position: 'start',
-  showNotation: true,
-  moveSpeed: 'slow'
+  showNotation: true
 };
 board = new ChessBoard('board', cfg);
 $(window).resize(board.resize);
