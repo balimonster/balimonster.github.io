@@ -235,7 +235,7 @@ var cfg = {
   position: 'start',
   showNotation: true
 };
-board = new ChessBoard('board', cfg);
+board = new ChessBoard('article_board', cfg);
 $(window).resize(board.resize);
 
 //load the first game
