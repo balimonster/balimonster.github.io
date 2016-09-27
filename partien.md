@@ -7,11 +7,10 @@ permalink: /partien/
 
 Hier findet gespielte Partien aus unserem Verein. Egal
 ob berühmt, gelungen oder kurios.
-
+## TODO Partien austauschen
 
 <div class="boardinator">
-    <!-- Board -->
-  <div id="board" style="width: 400px;"></div>
+  <div id="article_board"></div>
   <div id="board-buttons">
     <button type="button" class="btn btn-default" id="btnStart"><i class="fa fa-fast-backward fa-lg">Anfang</i></button>
     <button type="button" class="btn btn-default" id="btnPrevious"><i class="fa fa-step-backward fa-lg"></i>zurück</button>
