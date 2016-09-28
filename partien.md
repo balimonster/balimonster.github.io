@@ -7,8 +7,8 @@ permalink: /partien/
 
 Hier findet gespielte Partien aus unserem Verein. Egal
 ob berühmt, gelungen oder kurios.
-## TODO Partien austauschen
 
+die 3 Partien eingeben
 <div class="boardinator">
   <div id="article_board"></div>
   <div id="board-buttons">
